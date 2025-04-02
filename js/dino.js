@@ -32,7 +32,7 @@ let cactus3Img;
 
 let velocityX = -5;
 let velocityY = 0;
-let gravity = 0.3;
+let gravity = 0.5;
 
 let gameOver = false;
 let score = 0;
